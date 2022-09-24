@@ -132,5 +132,5 @@ const a = prompt('Один из последних просмотренных ф
 
 // // 21. Цикл в цикле и метки
 
-let dsg
+let dsggdlfjgfdsser345543
 
